@@ -9,12 +9,14 @@ public class RestApiTest {
 	public void postJira() {
 
 		System.out.println("Rest Api-postJira");
+		System.out.println("Hi");
 
 	}
 
 	@Test
 	public void deleteTwitter() {
 		System.out.println("Rest Api-delete Twitter");
+		System.out.println("Rest Api-delete Twitter222");
 
 	}
 
